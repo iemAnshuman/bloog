@@ -1,12 +1,14 @@
 ---
-title: What makes a life worth living?
-published: 2025-05-28
-description: raw thoughts on what makes a life worth living
-image: ./assets/life_worth_living.JPG
-tags: [raw-thoughts] # raw-thoughts, plan-update, execution-log,
-category: life # life, mini-masters,
-draft: false
+title: Life worth living
+pubDate: 2025-06-01
+modDate: 2025-06-03 15:01
+categories: ["life"]
+description: "What makes a life worth living?"
+slug: philosophy 
+draft: true
+pin: true
 ---
+
 
 # What makes a life worth living?
 
