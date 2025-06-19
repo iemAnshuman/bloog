@@ -5,7 +5,7 @@ modDate: 2025-06-03 15:01
 categories: ["life"]
 description: "What makes a life worth living?"
 slug: philosophy 
-draft: true
+draft: false
 pin: true
 ---
 
