@@ -7,7 +7,5 @@ description: A compact and practical cheatsheet covering key functions and synta
 slug: python-library-cheatsheet
 draft: false
 pin: true
-banner: ./images/cheatsheet-banner.png
 ---
 
-[Cheatsheet](https://drive.google.com/drive/folders/11qQGgTfeZBZQbaNqmk63vYE8OkD-vCao?usp=sharing)
