@@ -1,5 +1,5 @@
 ---
-title: Essential Python Library Cheatsheet: NumPy, pandas, matplotlib, scikit-learn
+title: Essential Python Library Cheatsheet- NumPy, pandas, matplotlib, scikit-learn
 pubDate: 2025-06-22
 modDate: 2025-06-22 
 categories: ["python"]
@@ -9,5 +9,5 @@ draft: false
 pin: true
 ---
 
-[NumPy for begginers](https://asquare.site/public/numpy_cheatsheet.pdf)
+
 
