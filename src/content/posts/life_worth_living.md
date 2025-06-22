@@ -4,7 +4,7 @@ pubDate: 2025-06-01
 modDate: 2025-06-03 15:01
 categories: ["life"]
 description: "What makes a life worth living?"
-slug: philosophy 
+slug: life-worth
 draft: false
 pin: true
 ---
