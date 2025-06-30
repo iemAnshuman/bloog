@@ -4,7 +4,7 @@ pubDate: 2025-07-01
 modDate: 2025-07-01
 categories: ["self"]
 description: causality of me having consicouness?
-slug: self-love-101
+slug: who-am-i
 draft: false
 pin: true
 ---
