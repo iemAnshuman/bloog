@@ -1,8 +1,8 @@
 ---
 title: Some useful advice
-pubDate: 2025-07-01
-modDate: 2025-07-01
-categories: ["advice]
+pubDate: 2025-07-16
+modDate: 2025-07-16
+categories: ["advice"]
 description: set of hyperlink of some useful advice
 slug: advice
 draft: false
