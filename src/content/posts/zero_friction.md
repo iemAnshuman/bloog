@@ -3,7 +3,7 @@ title: Zero Friction ML Projects Guide
 pubDate: 2025-08-01
 modDate: 2025-08-01
 categories: ["project"]
-description: 
+description: some details 
 slug: zero-friction
 draft: false
 pin: false

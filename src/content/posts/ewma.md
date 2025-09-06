@@ -1,5 +1,5 @@
 ---
-title: "EWMA Volatility from First Principles"
+title: EWMA Volatility from First Principles
 pubDate: 2025-08-05
 modDate: 2025-08-05
 categories: ["finance", "ml", "time-series", "experiments"]
