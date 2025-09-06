@@ -78,7 +78,7 @@ plt.ylabel("Volatility")
 plt.show()
 ```
 
-![EWMA volatility plot](../../public/ewma.png)
+![EWMA volatility plot](/ewma.png)
 
 The blue line (λ = 0.985) is smooth and slow. The orange one (λ = 0.94) reacts faster to spikes. That’s the entire point.
 
