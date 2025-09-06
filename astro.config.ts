@@ -7,9 +7,13 @@ import rehypeKatex from 'rehype-katex'
 import remarkMath from 'remark-math'
 import UnoCSS from 'unocss/astro'
 import { themeConfig } from './src/.config'
+import path from 'node:path'
 
 // https://astro.build/config
 export default defineConfig({
+  vite: {
+    resolve: { alias: { '~': path.resolve('./src') } }
+  },
   site: themeConfig.site.website,
   prefetch: true,
   base: '/',
