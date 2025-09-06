@@ -13,10 +13,12 @@ export async function getStaticPaths() {
   return posts.map((post, idx) => {
     const prev = posts[idx - 1]
     const next = posts[idx + 1]
-    // `[...id].astro` is a catch-all; allow both "slug" and "a/b/slug".
-    const paramId = typeof post.id === 'string' ? post.id.split('/') : post.id
+
+    // ✅ Astro 5 expects a string (or number/undefined), not an array
+    const id = Array.isArray(post.id) ? post.id.join('/') : String(post.id)
+
     return {
-      params: { id: paramId },
+      params: { id },                     // <-- string, not string[]
       props: { entry: post, prev, next },
     }
   })
