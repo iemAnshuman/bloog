@@ -6,7 +6,7 @@ categories: ["self-love"]
 description: How to love yourself when you're surrounded by uninteresting, uninspiring people.
 slug: self-love-101
 draft: false
-pin: true
+pin: false
 ---
 
 # How Not to Hate Yourself: Embracing Your True Identity

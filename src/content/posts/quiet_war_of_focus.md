@@ -6,7 +6,7 @@ categories: ["focus"]
 description: A stream-of-consciousness dive into the war between outer noise, inner resistance, and the kind of calm, focused work that actually matters.
 slug: quiet-war 
 draft: false
-pin: true
+pin: false
 ---
 
 ## Noise, Resistance, and the Quiet War of Focus

@@ -6,7 +6,7 @@ categories: ["life"]
 description: "What makes a life worth living?"
 slug: life-worth
 draft: false
-pin: true
+pin: false
 ---
 
 

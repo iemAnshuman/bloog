@@ -6,7 +6,7 @@ categories: ["advice"]
 description: set of hyperlink of some useful advice
 slug: advice
 draft: false
-pin: true
+pin: false
 ---
 
 https://patrickcollison.com/advice

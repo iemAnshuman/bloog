@@ -6,7 +6,7 @@ categories: ["self"]
 description: causality of me having consicouness?
 slug: who-am-i
 draft: false
-pin: true
+pin: false
 ---
 
 ## Who Am I?
