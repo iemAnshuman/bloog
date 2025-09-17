@@ -6,7 +6,7 @@ categories: ["python"]
 description: A compact and practical cheatsheet covering key functions and syntax from NumPy, pandas, matplotlib, and scikit-learn — perfect for quick refreshers and getting back on track fast.
 slug: python-library-cheatsheet
 draft: false
-pin: true
+pin: false
 ---
 
 [Cheatsheet](https://drive.google.com/drive/folders/11qQGgTfeZBZQbaNqmk63vYE8OkD-vCao?usp=share_link)

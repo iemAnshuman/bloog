@@ -9,8 +9,6 @@ draft: false
 pin: false
 ---
 
-# How Not to Hate Yourself: Embracing Your True Identity
-
 Have you ever noticed how your perception of yourself changes depending on who surrounds you or what you're doing? One minute, you're energized, inspired, and feeling genuinely fulfilled. The next, you're drained, irritable, and questioning your worth.
 
 I recently found clarity on this issue while reading David Deutsch's "The Beginning of Infinity." Deutsch contrasts how ordinary people perceive the universe—limited by immediate surroundings—with how astronauts envision the vast, limitless cosmos. This simple yet profound distinction ignited a powerful realization in me:

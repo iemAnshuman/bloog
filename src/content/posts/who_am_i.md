@@ -9,8 +9,6 @@ draft: false
 pin: false
 ---
 
-## Who Am I?
-
 Maybe I’m human. Or maybe I’m just a shadow pretending to be one. Carbon atoms, water, neurons—star dust that got lucky. Lucky enough to somehow… notice itself.
 Self-awareness. That grand illusion. That voice in my head saying *I am*. But is it real? Or just another line of code in a program that was designed to say *I am*?
 

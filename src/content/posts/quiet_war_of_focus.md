@@ -9,8 +9,6 @@ draft: false
 pin: false
 ---
 
-## Noise, Resistance, and the Quiet War of Focus
-
 Some days the noise outside is deafening. Not just audible sounds—traffic, chatter, a barking dog—but the overwhelming chaos of living in a world constantly screaming for your attention. Notifications, ads, expectations, noise layered on noise, each more urgent than the last.
 
 You wake with purpose—a plan laid out, clear, simple. Yet, before your feet touch the floor, the external chaos floods in, blurring the edges, pulling your mind in a thousand meaningless directions.
